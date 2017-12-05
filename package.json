@@ -1,25 +1,25 @@
 {
-  "name": "nodeMongo",
+  "name": "PFE_Traking",
   "version": "1.0.0",
-  "description": "Node.js and MongoDb tutorial.",
+  "description": "PremierProto",
   "main": "Server.js",
   "scripts": {
-    "test": "mocha"
+    "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/codeforgeek/Node-and-mongo-tutorial"
+    "url": "https://github.com/gfarra/PFE_Traking"
   },
   "keywords": [
     "Node.js",
     "mongoDb"
   ],
-  "author": "Shahid Shaikh",
+  "author": "Gabriel Farra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/codeforgeek/Node-and-mongo-tutorial/issues"
+    "url": "https://github.com/gfarra/PFE_Traking/issues"
   },
-  "homepage": "https://github.com/codeforgeek/Node-and-mongo-tutorial",
+  "homepage": "https://github.com/gfarra/PFE_Traking",
   "dependencies": {
     "body-parser": "^1.13.3",
     "express": "^4.13.3",
